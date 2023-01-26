@@ -5,7 +5,7 @@
 - 🌱 Here you can see some of my studies.
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=larislav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <div style="display: inline_block"><br>
