@@ -1,6 +1,6 @@
 ### Hi there, I'm Larissa 👋
 
-- ⚡ I'm a .NET developer from Brazil.
+- ⚡ I'm a .NET developer.
 - 🔭 I'm about to graduate in Back-End Development. I also have a technical course in Computer Networks.
 - 🌱 Here you can see some of my studies.
 
